@@ -1,0 +1,29 @@
+.App{
+  text-align: center;
+}
+.card-container{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  /* gap: 1rem; */
+  /* margin: 30px; */
+  justify-content: center;
+  background-color: #d5d7d8;
+}
+
+.card{
+  margin: 20px;
+}
+
+button{
+  margin: 5px;
+}
+
+.cart-value{
+  display: flex;
+  justify-content: end;
+  margin: 15px;
+  padding: 5px;
+  letter-spacing: 2px;
+  
+}
